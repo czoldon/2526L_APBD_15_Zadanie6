@@ -1,0 +1,16 @@
+bin/
+obj/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+packages/
+*.nupkg
+secrets.json
+publish/
+*.dbmdl
+Thumbs.db
+Desktop.ini
+*.sln.iml
